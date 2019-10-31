@@ -1,0 +1,1 @@
+Bird	Prac1	same	DiffImage	Bird_Study1.jpg	Bird_Test1.jpgBird	Prac2	diff	Diff	Bird_Study2.jpg	Bird_Test2.jpg
